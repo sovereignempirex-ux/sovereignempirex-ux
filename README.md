@@ -50,7 +50,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=sovereignempirex-ux&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=8A2BE2&icon_color=C9D1D9&text_color=C9D1D9" height="165" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sovereignempirex-ux&layout=compact&hide_border=true&bg_color=0D1117&title_color=8A2BE2&text_color=C9D1D9" height="165" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sovereignempirex-ux&hide_border=true&background=0D1117&ring=8A2BE2&fire=E88C3A&currStreakLabel=8A2BE2" height="165" />
+<img src="https://streak-stats.demolab.com?user=sovereignempirex-ux&hide_border=true&background=0D1117&ring=8A2BE2&fire=E88C3A&currStreakLabel=8A2BE2" height="165" />
 
 <img src="https://github-profile-trophy.vercel.app/?username=sovereignempirex-ux&theme=onedark&no-frame=true&column=7&margin-w=10" width="100%" />
 
