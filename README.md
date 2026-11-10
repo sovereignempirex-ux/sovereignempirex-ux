@@ -25,6 +25,13 @@
 | [🔉 sal-lang](https://github.com/sovereignempirex-ux/sal-lang) | **SAL — Sovereign Application Language**: an Arabic/English programming language & CLI (`npm i -g sal-lang`) | `Node.js` `Compiler` |
 | [🧩 svcp](https://github.com/sovereignempirex-ux/svcp) | SCVP — provider-agnostic Python runtime for building AI agents without vendor lock-in | `Python` |
 
+## ⚡ What I'm Building Now
+
+- 🧠 Expanding **svcp-ai** — my terminal AI agent in Go (tools, sessions, remote control)
+- 👑 Evolving **Salever** (sovereignx-core) — new plugin architecture & AI integrations
+- 🌍 Growing **SAL language** — compiler, docs & examples for Arabic/English web dev
+- 📱 Shipping mobile builds of **quran-alshamela** for Android
+
 ## Tech Stack
 
 <div align="center">
@@ -51,6 +58,21 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sovereignempirex-ux&layout=compact&hide_border=true&bg_color=0D1117&title_color=8A2BE2&text_color=C9D1D9" height="165" />
 
 <img src="https://streak-stats.demolab.com?user=sovereignempirex-ux&hide_border=true&background=0D1117&ring=8A2BE2&fire=E88C3A&currStreakLabel=8A2BE2" height="165" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sovereignempirex-ux&bg_color=0D1117&color=C9D1D9&line=8A2BE2&point=C9D1D9&area=true&area_color=4B0082&hide_border=true" width="100%" />
+
+</div>
+
+## Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sovereignempirex-ux/sovereignempirex-ux/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/sovereignempirex-ux/sovereignempirex-ux/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution Snake" />
+</picture>
+
+</div>
 
 <img src="https://github-profile-trophy.vercel.app/?username=sovereignempirex-ux&theme=onedark&no-frame=true&column=7&margin-w=10" width="100%" />
 
